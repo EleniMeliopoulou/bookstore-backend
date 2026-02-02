@@ -37,6 +37,7 @@ This repository contains the backend of the **Bookstore "Chapter One"** web appl
 ### Configure Database
 
 Update `application.properties`:
+
 spring.datasource.url=jdbc:mysql://localhost:3306/bookstore
 spring.datasource.username=your_username
 spring.datasource.password=your_password
@@ -61,10 +62,14 @@ mvn spring-boot:run
 The backend will start at:
 http://localhost:8080
 
-## 🛠️ Future Enhancements
+---
 
-### 🛒 Persistent Cart System
+## Future Enhancements
+
+### Persistent Cart System
 A new feature will be added to store cart items in the database, similar to the liked-books system.
+
+---
 
 ## Contribution
 
