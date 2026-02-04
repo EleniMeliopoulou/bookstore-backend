@@ -37,29 +37,37 @@ This repository contains the backend of the **Bookstore "Chapter One"** web appl
 ### Configure Database
 
 Update `application.properties`:
-
+```bash
 spring.datasource.url=jdbc:mysql://localhost:3306/bookstore
 spring.datasource.username=your_username
 spring.datasource.password=your_password
+```
 
 ### Load Books from CSV (First Run Only)
 
 In `application.properties`:
+```bash
 bookloader.enabled=true
+```
 
 Run the application once.  
+
 When the books finish loading into the database, set:
+```bash
 bookloader.enabled=false
+```
 
 This prevents duplicate entries.
 
 ---
 
 ## Running the Application
-
+```bash
 mvn spring-boot:run
+```
 
 The backend will start at:
+
 http://localhost:8080
 
 ---
@@ -67,6 +75,7 @@ http://localhost:8080
 ## Future Enhancements
 
 ### Persistent Cart System
+
 A new feature will be added to store cart items in the database, similar to the liked-books system.
 
 ---
