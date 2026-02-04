@@ -49,7 +49,7 @@ Database Configuration
 
 Create a new MySQL database, for example:
 ```
-CREATE DATABASE online_library;
+CREATE DATABASE bookstore;
 ```
 
 Update `application.properties`:
