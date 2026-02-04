@@ -67,7 +67,7 @@ Important:
 
 The file is **not included** in the GitHub repository because it exceeds GitHub’s 100MB file size limit.  
 
-You must download it manually and place it in the correct directory.
+You must download it manually and place it in the correct directory (\bookstore-backend\src\main\resources).
 
 ---
 
