@@ -59,9 +59,7 @@ You must download it manually and place it in the correct directory.
 
 Download the file from the link below:
 
-**Download books_data.csv** 
-
-https://drive.google.com/file/d/1OUj_GV3h4DlwOL6mG_41-YT_zpTuBjWc/view?usp=drive_link
+[**Download books_data.csv** ](https://drive.google.com/file/d/1OUj_GV3h4DlwOL6mG_41-YT_zpTuBjWc/view?usp=drive_link)
 
 ---
 
