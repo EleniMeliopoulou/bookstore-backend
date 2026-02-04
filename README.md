@@ -34,7 +34,23 @@ This repository contains the backend of the **Bookstore "Chapter One"** web appl
 
 ---
 
+Follow the steps below to set up and run the application locally.
+
+Clone the Repository
+
+```bash
+git clone https://github.com/EleniMeliopoulou/bookstore-backend.git
+cd bookstore-backend
+```
+
 ### Configure Database
+
+Database Configuration
+
+Create a new MySQL database, for example:
+```
+CREATE DATABASE online_library;
+```
 
 Update `application.properties`:
 ```bash
