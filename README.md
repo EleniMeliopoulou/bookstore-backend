@@ -43,6 +43,28 @@ spring.datasource.username=your_username
 spring.datasource.password=your_password
 ```
 
+## Books Dataset (books_data.csv)
+
+The backend of the **Bookstore "Chapter One"** application uses a large CSV file (`books_data.csv`) to initialize the database with book data.
+
+Important:  
+
+The file is **not included** in the GitHub repository because it exceeds GitHub’s 100MB file size limit.  
+
+You must download it manually and place it in the correct directory.
+
+---
+
+### Download the CSV
+
+Download the file from the link below:
+
+**Download books_data.csv** 
+
+https://drive.google.com/file/d/1OUj_GV3h4DlwOL6mG_41-YT_zpTuBjWc/view?usp=drive_link
+
+---
+
 ### Load Books from CSV (First Run Only)
 
 In `application.properties`:
