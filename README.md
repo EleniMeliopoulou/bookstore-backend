@@ -118,4 +118,4 @@ A new feature will be added to store cart items in the database, similar to the 
 
 ## Contribution
 
-This backend was developed as part of a personal project and is an enhanced version of the academic project **"Online Library"**.
+This backend was developed independently as part of my personal project **Bookstore "Chapter One"** and is an enhanced version of the academic project **"Online Library"**.
